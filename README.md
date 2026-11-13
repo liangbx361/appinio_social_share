@@ -1,4 +1,4 @@
-# appinio_social_share JoyReels fork
+# appinio_social_share
 
 Maintained from the upstream [appinio_social_share 0.3.3 release](https://pub.dev/packages/appinio_social_share/versions/0.3.3).
 The original Appinio GmbH MIT license and copyright are preserved in [LICENSE](LICENSE).
